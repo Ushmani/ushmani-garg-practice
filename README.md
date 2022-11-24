@@ -1,0 +1,1 @@
+This project aims to build a code-based static site generator, with focuses on expandability, full custom control and ease of use. The framework design has both web developers and blog writers in mind, but should completely separate code from blog posts. The goal is to deploy and start a blog on a server with as little hassle as possible.
